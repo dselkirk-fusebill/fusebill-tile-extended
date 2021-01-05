@@ -1,0 +1,24 @@
+{
+  "name": "querytile-extended",
+  "version": "1.0.0",
+  "description": "![Widget preview](images/preview.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dselkirk-fusebill/querytile-extended.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dselkirk-fusebill/querytile-extended/issues"
+  },
+  "homepage": "https://github.com/dselkirk-fusebill/querytile-extended#readme",
+  "dependencies": {
+    "bower": "^1.8.8",
+    "vss-web-extension-sdk": "^5.141.0"
+  }
+}
